@@ -136,8 +136,8 @@ void test_fragtrap(void)
         a.beRepaired(10);
     }
     {
-        // test guard gate mode
-        std::cout << "=== guard gate ==" << std::endl;
+        // test highfives
+        std::cout << "=== high fives ==" << std::endl;
         FragTrap a("zidane");
         a.highFivesGuys();
         a.takeDamage(100);
